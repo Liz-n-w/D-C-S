@@ -1,0 +1,13 @@
+{
+    "name": "docker-cicd",
+    "version": "1.0.0",
+    "description": "A simple Node.js app for demonstrating CI/CD with Docker and AWS",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"No tests configured yet\" && exit 0"
+    },
+    "dependencies": {
+        "express": "^4.21.2"
+    }
+}
