@@ -96,7 +96,9 @@ The pipeline will automatically trigger when you push changes to your GitHub rep
     git add .
     git commit -m "Update application"
     git push origin main
+
+
+    
 =======
 # D-C-S
 This repo contains Devops,Cloud and SRE Projects
->>>>>>> 15dd3207294bf53fd2f1c0b42bf65e4cac3db812
