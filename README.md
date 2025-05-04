@@ -100,5 +100,4 @@ The pipeline will automatically trigger when you push changes to your GitHub rep
 
     
 =======
-# D-C-S
-This repo contains Devops,Cloud and SRE Projects
+
